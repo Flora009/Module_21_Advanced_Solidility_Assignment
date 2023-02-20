@@ -226,9 +226,7 @@ Check account 12's balance using balancOf() function
 
 
 Test isMinter() function using kasei_crowdsale_address
-![alt=""](Evaluation_Evidence/
-
-y_other_info_crowdsale_address_isMinter.png)
+![alt=""](Evaluation_Evidence/y_other_info_crowdsale_address_isMinter.png)
 
 
 ---
