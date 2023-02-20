@@ -8,7 +8,7 @@ After waiting for years and passing several tests, the Martian Aerospace Agency 
 
 KaseiCoin will be a fungible token that is ERC-20 compliant. You will launch a crowdsale that will allow people who are moving to Mars to convert their earthling money to KaseiCoin.
 
-# Steps on how to compile, deploy and test
+## Steps on how to compile, deploy and test
 
 
 ## 1. Compile Results
@@ -25,7 +25,7 @@ KaseiCoin will be a fungible token that is ERC-20 compliant. You will launch a c
 ![alt=""](Evaluation_Evidence/compile_KaseiCoinCrowdsaleDeployer_successfully.png)
 
 
-## 2. Prepare 3 accounts in metamask
+### 2. Prepare 3 accounts in metamask
 Before deploying the contracts, make sure that you have launched Ganache and loaded at least three accounts into Remix.
 
 1. __`Wallet address`__ (address for the crowdsale smart contract to receive ETH): 
@@ -55,7 +55,7 @@ Ganache Accounts Screen Shot:
 
 
 
-## 3. Deploy the KaseiCoinCrowdsaleDeployer, KaseiCoinCrowdsale, and KaseiCoin contracts.
+### 3. Deploy the KaseiCoinCrowdsaleDeployer, KaseiCoinCrowdsale, and KaseiCoin contracts.
 
 To deploy the contracts, complete the following steps:
 1. In the Remix IDE, navigate to the Deploy & Run Transactions pane, and then complete the following steps:
@@ -133,7 +133,7 @@ To deploy the contracts, complete the following steps:
 ![alt=""](Evaluation_Evidence/y_link_token_add_deployed_token_contract_info.png)
 
 
-## 4. Test the KaseiCoinCrowdsale
+### 4. Test the KaseiCoinCrowdsale
 Now you will test the KaseiCoinCrowdsale. You will assume the role of a participant seeking to buy Kasei Coins. To do so, complete the following steps:
 1. Purchase Kasei Coins from the crowdsale by completing the following steps:
 - Select a new account from MetaMask. Notice the new account address in the Account box in the Remix IDE. Copy this account address to the clipboard.
