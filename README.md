@@ -25,25 +25,6 @@ KaseiCoin will be a fungible token that is ERC-20 compliant. You will launch a c
 ![alt=""](Evaluation_Evidence/compile_KaseiCoinCrowdsaleDeployer_successfully.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 2. Prepare 3 accounts in metamask
 Before deploying the contracts, make sure that you have launched Ganache and loaded at least three accounts into Remix.
 
@@ -212,22 +193,11 @@ Account 12 in metamask
 
 ![alt=""](Evaluation_Evidence/y_purchase_input_purchaser_add_acc12.png)
 
-
-
-
-
-
 ![alt=""](Evaluation_Evidence/y_purchase_transact_19wei.png)
-
-
-
-
 
 - When the MetaMask dialog box opens, click Confirm.
 
 ![alt=""](Evaluation_Evidence/y_purchase_confirm_19wei.png)
-
-
 
 - Confirm that the number of purchased tokens is correctly reflected in Remix by clicking the totalSupply button.
 
@@ -235,14 +205,9 @@ Account 12 in metamask
 
 ![alt=""](Evaluation_Evidence/y_purchase_19Wei_totalSupply.png)
 
-
 ![alt=""](Evaluation_Evidence/y_purchase_19Wei_weiRaised.png)
 
-
-
-![alt=""](Evaluation_Evidence/transaction_info_in_ganache_after_test.png)
-
-
+![alt=""](Evaluation_Evidence/y_transaction_info_in_ganache_after_test.png)
 
 3. Explore other functionality that is associated with this crowdsale application.  
 
