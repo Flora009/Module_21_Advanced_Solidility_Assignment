@@ -28,7 +28,7 @@ KaseiCoin will be a fungible token that is ERC-20 compliant. You will launch a c
 ### 2. Prepare 3 accounts in metamask
 Before deploying the contracts, make sure that you have launched Ganache and loaded at least three accounts into Remix.
 
-1. __`Wallet address`__ (address for the crowdsale smart contract to receive ETH): 
+1. __`Wallet address`__ (address for the KaseiCoinCrowdsaleDeployer to deploy the smart contracts): 
 - Account 10 in metamask
 
     `0x281C3CAE7Ced1b1bB40e1f8c31984F6b0cBb3f8e`
